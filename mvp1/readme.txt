@@ -8,3 +8,5 @@ Hypothesis to test:
 FrontEnd:
 
 BackEnd:
+
+1. Assume we have agents 
